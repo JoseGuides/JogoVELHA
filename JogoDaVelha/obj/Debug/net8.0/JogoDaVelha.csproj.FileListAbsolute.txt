@@ -1,0 +1,15 @@
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.exe
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.deps.json
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.runtimeconfig.json
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.dll
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.pdb
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.sourcelink.json
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.dll
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\refint\JogoDaVelha.dll
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
+C:\Users\thais\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll
